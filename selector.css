@@ -1,0 +1,132 @@
+#sehife{
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+   }
+   .gorunus {
+    float: left;
+    height: auto;
+    width: 1000px;
+   }
+   
+   #logo {
+    height: 80px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+   }
+   #rengucun {
+    height: 60px;
+    width: 1000px;
+    background-color: rgb(233, 145, 55);
+   }
+   #menu {
+    height: 50px;
+    width: 1000px;
+    margin-top: 10px;
+    background-color: rgb(221, 221, 221);
+   }
+   #mina {
+    height: 430px;
+    width: 500px;
+    background-color: rgb(17, 17, 17);
+    float: left;
+    margin-right: 20px;
+    margin-left: 65px;
+    margin-top: 10px;
+   }
+   #bomba {
+    height: 360px;
+    width: 460px;
+    margin: 20px;
+    float: left;
+    color: rgb(241, 240, 240);
+   }
+   #sagol{
+    float: right;
+    height: 400px;
+    width: 200px;
+    margin-right: 25px;
+    margin-top: 10px;
+   }
+   #ilk {
+    height: 100px;
+    width: 170px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    background-color: rgb(46, 45, 38),;
+   }
+   #orta {
+    height: 100px;
+    width: 170px;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(46, 45, 38),;
+   }
+   #alt {
+    height: 100px;
+    width: 170px;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:rgb(46, 45, 38),;
+   }
+   #footer {
+    height: 60px;
+    width: 600px;
+    margin-top: 20px;
+    background-color: rgb(221, 221, 221);
+    padding-left: 450px;
+    padding-top: 40px;
+    float: left;
+   }
+   #footreng {
+    height: 20px;
+    width: 1000px;
+    margin-left: -450px;
+    float: left;
+    margin-top: 21px;
+    background-color: rgb(233, 145, 55);
+   }
+   .ddmenu {
+    padding:0px;
+    margin:0;
+    list-style-type:none;
+    height:30px;
+    background-color: rgb(221, 221, 221);
+   }
+   .ddmenu li {
+    float:left;
+    height:30px;
+    border-right: solid 1px white;
+   }
+   .ddmenu li a {
+    display:block;
+    color:#fff;
+    text-decoration:none;
+    font:12px arial, verdana, sans-serif;
+    font-weight: bold;
+    padding-top: 9px;
+    padding-right: 20px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+   }
+   .ddmenu li:hover a {text-decoration:underline;}
+   
+   .ddmenu ul {position:absolute; left:-9999px; top:-9999px; list-style-type:none;}
+   .ddmenu li:hover {
+    position:relative;
+    background-color: rgb(201, 107, 13);
+   }
+   .ddmenu li:hover ul {left:0px; top:30px; background:lavender; padding:3px; border:1px solid grey; width:160px;}
+   .ddmenu li:hover ul li a {height:18px; padding:0px; display:block; font-size:11px; width:158px; line-height:18px; text-indent:5px; color:#444; background-color:lavender; text-decoration:none; border:1px solid transparent;}
+   .solsidebar {
+    float: left;
+    height: 450px;
+    width: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+   }
+   
